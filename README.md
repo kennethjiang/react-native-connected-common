@@ -34,3 +34,11 @@ nvm install node && nvm alias default node
   brew install flow
   npm install -g react-native-cli
 ```
+# How to Publish
+
+A [good description of all the instructions](https://android.jlelse.eu/the-complete-guide-to-creating-an-android-library-46628b7fc879#.cso1a87uy). *TL;DR:* To publish an update to go Android Studio > Gradle right side tab > android > upload > uploadArchives.
+
+Go to [Sonatype](https://oss.sonatype.org/#stagingRepositories) (login account connectedlab) to manage and publish the repository [as described in their docs](http://central.sonatype.org/pages/releasing-the-deployment.html). *TL;DR* Click Close and then Release.
+
+
+
