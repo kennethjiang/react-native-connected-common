@@ -44,7 +44,7 @@ A [good description of all the instructions](https://android.jlelse.eu/the-compl
 
 *TL;DR:* 
 
-1. Setup GPG keys. Tech support will know how to get you the appropriate GPG key.
+1. Setup GPG key. Tech support will know how to get you the appropriate GPG key.
 1. To publish an update to go Android Studio > Gradle right side tab > android > upload > uploadArchives.
 
 Go to [Sonatype](https://oss.sonatype.org/#stagingRepositories) (login account connectedlab) to manage and publish the repository [as described in their docs](http://central.sonatype.org/pages/releasing-the-deployment.html). 
