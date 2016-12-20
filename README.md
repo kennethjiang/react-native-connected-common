@@ -51,5 +51,11 @@ Go to [Sonatype](https://oss.sonatype.org/#stagingRepositories) (login account c
 
 *TL;DR* Click Close and then Release.
 
+## NPM 
+
+```
+npm login # connected-lab
+npm publish
+```
 
 
