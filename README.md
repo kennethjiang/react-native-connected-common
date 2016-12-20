@@ -36,11 +36,13 @@ nvm install node && nvm alias default node
 ```
 # How to Publish
 
+## Android Library
+
 A [good description of all the instructions](https://android.jlelse.eu/the-complete-guide-to-creating-an-android-library-46628b7fc879#.cso1a87uy). 
 
 *TL;DR:* 
 
-1. Setup GPG keys. Associated key can be found at [shared Ranch Keys drive](https://drive.google.com/drive/folders/0B1zn_IehYreRenZ6aFZISHkyc1U) key "damian-mccabe-2F04D2EE-secret"
+1. Setup GPG keys.
 1. To publish an update to go Android Studio > Gradle right side tab > android > upload > uploadArchives.
 
 Go to [Sonatype](https://oss.sonatype.org/#stagingRepositories) (login account connectedlab) to manage and publish the repository [as described in their docs](http://central.sonatype.org/pages/releasing-the-deployment.html). 
