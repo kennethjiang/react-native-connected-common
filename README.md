@@ -36,6 +36,8 @@ nvm install node && nvm alias default node
 ```
 # How to Publish
 
+These instructions are only for when you are making changes to this react-native-connected-common repository and want to publish them.
+
 ## Android Library
 
 A [good description of all the instructions](https://android.jlelse.eu/the-complete-guide-to-creating-an-android-library-46628b7fc879#.cso1a87uy). 
