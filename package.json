@@ -16,11 +16,11 @@
   },
   "dependencies": {
   	"react": "*",	
-  	"react-native": "^0.40.0"
+  	"react-native": "^0.48.2"
   },
   "author": "",
   "license": "Apache-2.0",
   "peerDependencies": {
-    "react-native": "^0.40.0"
+    "react-native": "^0.48.2"
   }
 }
